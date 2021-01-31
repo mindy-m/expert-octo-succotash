@@ -8,3 +8,15 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 36px;
 }
+
+main{
+    width: 45%;
+    float: left;
+}
+
+aside{
+    with: 45%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+}
